@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=189,195,199
-BackgroundNormal=255,255,255
+BackgroundNormal=0,0,0
 DecorationFocus=54,123,240
 DecorationHover=54,123,240
 ForegroundActive=74,174,230
@@ -28,7 +28,7 @@ ForegroundInactive=92,98,108
 ForegroundLink=54,123,240
 ForegroundNegative=212,25,25
 ForegroundNeutral=253,125,0
-ForegroundNormal=0,0,0
+ForegroundNormal=255,255,255
 ForegroundPositive=25,161,135
 ForegroundVisited=92,98,108
 
@@ -62,7 +62,7 @@ ForegroundVisited=92,98,108
 
 [Colors:View]
 BackgroundAlternate=189,195,199
-BackgroundNormal=255,255,255
+BackgroundNormal=0,0,0
 DecorationFocus=54,123,240
 DecorationHover=54,123,240
 ForegroundActive=74,174,230
@@ -70,13 +70,13 @@ ForegroundInactive=92,98,108
 ForegroundLink=54,123,240
 ForegroundNegative=212,25,25
 ForegroundNeutral=253,125,0
-ForegroundNormal=0,0,0
+ForegroundNormal=255,255,255
 ForegroundPositive=25,161,135
 ForegroundVisited=92,98,108
 
 [Colors:Window]
 BackgroundAlternate=189,195,199
-BackgroundNormal=255,255,255
+BackgroundNormal=0,0,0
 DecorationFocus=54,123,240
 DecorationHover=54,123,240
 ForegroundActive=74,174,230
@@ -84,22 +84,22 @@ ForegroundInactive=92,98,108
 ForegroundLink=54,123,240
 ForegroundNegative=212,25,25
 ForegroundNeutral=253,125,0
-ForegroundNormal=0,0,0
+ForegroundNormal=255,255,255
 ForegroundPositive=25,161,135
 ForegroundVisited=92,98,108
 
 [General]
-ColorScheme=Flat-Remix
-Name=Flat-Remix
+ColorScheme=Flat-Remix-Blue-Darkest
+Name=Flat-Remix-Blue-Darkest
 shadeSortColumn=true
 
 [KDE]
 contrast=4
 
 [WM]
-activeBackground=255,255,255
-activeBlend=255,255,255
-activeForeground=0,0,0
-inactiveBackground=255,255,255
-inactiveBlend=255,255,255
+activeBackground=0,0,0
+activeBlend=0,0,0
+activeForeground=255,255,255
+inactiveBackground=0,0,0
+inactiveBlend=0,0,0
 inactiveForeground=120,120,120

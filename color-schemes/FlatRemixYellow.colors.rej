@@ -1,0 +1,18 @@
+--- /dev/null
++++ /dev/null
+@@ -37,12 +37,12 @@
+ BackgroundNormal=255,216,110
+ DecorationFocus=38,86,168
+ DecorationHover=38,86,168
+-ForegroundActive=255,255,255
++ForegroundActive=0,0,0
+ ForegroundInactive=255,255,255
+-ForegroundLink=255,216,110
++ForegroundLink=0,0,0
+ ForegroundNegative=191,23,23
+ ForegroundNeutral=253,125,0
+-ForegroundNormal=255,255,255
++ForegroundNormal=0,0,0
+ ForegroundPositive=94,189,171
+ ForegroundVisited=204,204,204
+ 
