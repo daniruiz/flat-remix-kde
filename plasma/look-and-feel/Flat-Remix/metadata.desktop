@@ -10,3 +10,5 @@ X-KDE-PluginInfo-Name=Flat-Remix
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/daniruiz/flat-remix-kde
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1304623,kns://aurorae.knsrc/api.kde-look.org/1304621,kns://icons.knsrc/api.kde-look.org/1012430
