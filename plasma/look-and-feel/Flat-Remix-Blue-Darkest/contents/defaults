@@ -1,0 +1,9 @@
+[kdeglobals][General]
+ColorScheme=FlatRemixBlueDarkest
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Flat-Remix-Darkest-Solid
+
+[kdeglobals][Icons]
+Theme=Flat-Remix-Blue-Dark

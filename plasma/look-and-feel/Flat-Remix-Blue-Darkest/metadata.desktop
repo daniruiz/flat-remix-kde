@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=Flat Remix a pretty simple KDE theme inspired on material design. It is mostly flat with some shadows, highlights and gradients for some depth, and uses a colorful palette with nice contrasts
+Name=Flat-Remix-Blue-Darkest
+X-KDE-PluginInfo-Author=Daniel Ruiz de Alegría
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=daniel@drasite.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Flat-Remix-Blue-Darkest
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/daniruiz/flat-remix-kde
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1304623,kns://aurorae.knsrc/api.kde-look.org/1315475,kns://icons.knsrc/api.kde-look.org/1012430

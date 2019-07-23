@@ -1,0 +1,9 @@
+[kdeglobals][General]
+ColorScheme=FlatRemixRed
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Flat-Remix-Solid
+
+[kdeglobals][Icons]
+Theme=Flat-Remix-Red
