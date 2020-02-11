@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=189,195,199
-BackgroundNormal=47,52,63
+BackgroundNormal=39,42,52
 DecorationFocus=236,1,1
 DecorationHover=236,1,1
 ForegroundActive=74,174,230
@@ -62,7 +62,7 @@ ForegroundVisited=92,98,108
 
 [Colors:View]
 BackgroundAlternate=189,195,199
-BackgroundNormal=47,52,63
+BackgroundNormal=39,42,52
 DecorationFocus=236,1,1
 DecorationHover=236,1,1
 ForegroundActive=74,174,230
@@ -76,7 +76,7 @@ ForegroundVisited=92,98,108
 
 [Colors:Window]
 BackgroundAlternate=189,195,199
-BackgroundNormal=47,52,63
+BackgroundNormal=39,42,52
 DecorationFocus=236,1,1
 DecorationHover=236,1,1
 ForegroundActive=74,174,230
@@ -97,9 +97,9 @@ shadeSortColumn=true
 contrast=4
 
 [WM]
-activeBackground=47,52,63
-activeBlend=47,52,63
+activeBackground=39,42,52
+activeBlend=39,42,52
 activeForeground=255,255,255
-inactiveBackground=47,52,63
-inactiveBlend=47,52,63
+inactiveBackground=39,42,52
+inactiveBlend=39,42,52
 inactiveForeground=120,120,120
